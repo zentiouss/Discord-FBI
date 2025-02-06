@@ -7,6 +7,6 @@ This was coded in javascript using discord.js-selfbot-v13
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,discord.js"/>
+    <img src="https://skillicons.dev/icons?i=js,discordjs"/>
   </a>
 </p>
