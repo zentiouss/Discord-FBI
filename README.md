@@ -5,7 +5,7 @@ This was coded in javascript using discord.js-selfbot-v13
 
 ```npm i dotenv discord.js-selfbot-v13```
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js"/>
   </a>
